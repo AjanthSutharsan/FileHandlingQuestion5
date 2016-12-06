@@ -1,0 +1,20 @@
+algorithm
+a step-by-step procedure for performing a calculation
+bit rate
+the space available for each sample measured in kilobit/s
+colour depth
+the number of bits used for each dot or pixel
+data redundancy
+an unnecessary repetition of data
+encryption
+the transformation of a message so that it is unintelligible to those unauthorised to view it
+hexadecimal
+a number system with a base of 16
+instruction set
+the collection of opcodes a processor is able to decode and execute
+protocol
+the rules and standards governing how networks should function and communicate
+resolution
+the number of pixels or dots per unit
+sample rate
+the number of times the sound is sampled per second, measured in Hz
